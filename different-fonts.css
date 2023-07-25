@@ -1,0 +1,60 @@
+.Times-New-Roman {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 24px;
+}
+
+.Georgia {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.Garamond {
+    font-family: Garamond, serif;
+    color: lightslategray;
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: red;
+}
+
+.verdana {
+    font-family: Verdana, sans-serif;
+    font-size: 24px;
+    color: lightseagreen;
+}
+
+.helvetica {
+    font-family: Helvetica, sans-serif;
+    font-size: 24px;
+    color: brown;
+}
+
+.courier-new {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    color: yellowgreen;
+}
+
+.brush-script-mt {
+    font-family: "Brush Script MT", cursive;
+    font-size: 24px;
+    color: blueviolet;
+}
+
+.lucida-handwriting {
+    font-family: cursive;
+    font-size: 24px;
+    color: black;
+}
+
+.copperplate {
+    font-family: Copperplate, fantasy;
+}
